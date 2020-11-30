@@ -7,6 +7,7 @@ using poi.Data;
 
 namespace poi.Controllers
 {
+//comment for change 1
     [Produces("application/json")]
     [Route("api/poi")]
     public class POIController : ControllerBase
